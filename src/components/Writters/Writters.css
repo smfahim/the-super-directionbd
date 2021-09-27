@@ -1,0 +1,27 @@
+.borderRight{
+    border-right: 2px solid #ddd;
+}
+.navbar{
+    width: 85%;
+    margin:0 auto;
+}
+nav{
+    text-align: left;
+    margin-top: 5px;
+    
+}
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+nav ul li a:hover{
+    color:darkorange;
+}

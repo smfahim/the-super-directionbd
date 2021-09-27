@@ -1,0 +1,22 @@
+.writter{
+    display: grid;
+     
+}
+.single-card{
+    text-align-last: left;
+    height: 400px;
+    box-shadow:  0px 3px 10px rgb(114, 7, 7);
+}
+.writterImage{
+    overflow: hidden;
+    
+}
+.writterImage img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;  
+    margin-left: 27%;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+ 
